@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{94F8848A-01E8-F082-B5AE-DA038830D3E4}") = "gate_AI_ANİM_2", "Assembly-CSharp.csproj", "{88BE8E73-CCFC-56C3-F8C6-1399AA59F167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88BE8E73-CCFC-56C3-F8C6-1399AA59F167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BE8E73-CCFC-56C3-F8C6-1399AA59F167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BE8E73-CCFC-56C3-F8C6-1399AA59F167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BE8E73-CCFC-56C3-F8C6-1399AA59F167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
